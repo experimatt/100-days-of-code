@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Sat, 2018-05-05
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+* Setup [100DaysOfCode Repo](https://github.com/experimatt/100-days-of-code)
+* Setup [Google Sheet](https://docs.google.com/spreadsheets/d/1br3t1gGp6G0mQPgSHaLoZDLTmmth0QQRw8t4yEyHrUg/edit?usp=sharing) for tracking
 
 
-### Day 1: June 27, Monday
+### Day 1 Sun, 2018-05-06
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: Mon, 2018-05-07
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 3: Tue, 2018-05-08
+
+
+### Day 4: Wed, 2018-05-09
+
+
+### Day 5: Thu, 2018-05-10
+
+
+### Day 6: Fri, 2018-05-11

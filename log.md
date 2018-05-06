@@ -14,7 +14,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 
 
 ### Day 1 Sun, 2018-05-06
-
+* OMG Transit: Start adding tests to `list.spec.js` ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=5300d3fd751ccad6642ddca9c9e8a95e0907727d))
 
 ### Day 2: Mon, 2018-05-07
 

@@ -13,12 +13,13 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
     - Branch: `mdecuir/fix-geolocation-errors`
 
 
-### Day 1 Sun, 2018-05-06
+### Day 1: Sun, 2018-05-06
 * OMG Transit: Start adding tests to `list.spec.js` ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=5300d3fd751ccad6642ddca9c9e8a95e0907727d))
 * OMG Transit: Finished tests in `list.spec.js` ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=07a2552bb339b669407840797764e81e8fcd0040))
 
 ### Day 2: Mon, 2018-05-07
-
+* SICP: finished watching [SICP Lecture 1A](https://www.youtube.com/watch?v=2Op3QLzMgSY&index=1&list=PLB63C06FAF154F047&t=5s)
+* OMG Transit: Refactored list component logic ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=32d4c7cee20ab4a6c6e54d2cafb2afb7d0bac24b))
 
 ### Day 3: Tue, 2018-05-08
 

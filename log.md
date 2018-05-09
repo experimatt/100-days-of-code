@@ -22,7 +22,9 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Refactored list component logic ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=32d4c7cee20ab4a6c6e54d2cafb2afb7d0bac24b))
 
 ### Day 3: Tue, 2018-05-08
-
+* SICP: started watching SICP Lecture 1B (10 minutes in)
+* OMG Transit: Refactored map component logic & ripped out location updater ([Commit 1](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=6983cb8cfdd35197fe487f2d79247068b288d8ee) [Commit 2](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=f343a96baafda678f03e0c49764098eb9f4dcadf))
+* Organized & facilitated Mpls Jr Devs #12 event
 
 ### Day 4: Wed, 2018-05-09
 

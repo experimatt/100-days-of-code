@@ -27,10 +27,10 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Organized & facilitated Mpls Jr Devs #12 event
 
 ### Day 5: Wed, 2018-05-09
-* SICP: continued Lecture 1B (36 minutes in)
+* SICP: continued Lecture 1B (37 minutes in)
 * OMG Transit: Finished list spec, finished map component refactor, started adding map component spec ([Commit 1](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=f46063ac4a4e5c7aa7f3fd2abc01cfcd58376a9e), [Commit 2](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=461038cdf6ef9071a6f79db47e49b90d2d477563))
 
 ### Day 6: Thu, 2018-05-10
-
+* OMG Transit: Handle ad blockers on the list view ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=82efbee7625e175b996a67eea1369a28d97b4e37))
 
 ### Day 7: Fri, 2018-05-11

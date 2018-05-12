@@ -34,3 +34,24 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Handle ad blockers on the list view ([Commit](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=82efbee7625e175b996a67eea1369a28d97b4e37))
 
 ### Day 7: Fri, 2018-05-11
+* OMG Transit: Add to map specs, fix error padding and merged MR in ([Commit 1](https://gitlab.com/omgtransit/omgtransit/merge_requests/4/diffs?commit_id=976d51791daeab55d5446c4a3cde1a67057e204d), [Commit 2](https://gitlab.com/omgtransit/omgtransit/commit/7e66045e42e5e898ac43d86e6e30aa238e694987), [MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/4))
+
+### Day 8: Sat, 2018-05-12
+
+
+### Day 9: Sun, 2018-05-13
+
+
+### Day 10: Mon, 2018-05-14
+
+
+### Day 11: Tue, 2018-05-15
+
+
+### Day 12: Wed, 2018-05-16
+
+
+### Day 13: Thu, 2018-05-17
+
+
+### Day 14: Fri, 2018-05-18

@@ -40,7 +40,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Add prettier ([Merge Request](https://gitlab.com/omgtransit/omgtransit/merge_requests/5/diffs))
 
 ### Day 9: Sun, 2018-05-13
-
+* Mpls Jr Devs: Update navbar, setup folder structure, and initial structure/copy of the site ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/27))
 
 ### Day 10: Mon, 2018-05-14
 

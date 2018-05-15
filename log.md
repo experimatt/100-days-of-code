@@ -43,7 +43,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Update navbar, setup folder structure, and initial structure/copy of the site ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/27))
 
 ### Day 10: Mon, 2018-05-14
-
+* Mpls Jr Devs: Group hacking session. Style welcome section. ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/30))
 
 ### Day 11: Tue, 2018-05-15
 

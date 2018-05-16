@@ -46,7 +46,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Group hacking session. Style welcome section. ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/30))
 
 ### Day 11: Tue, 2018-05-15
-
+* Mpls Jr Devs: Style contact section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/31))
 
 ### Day 12: Wed, 2018-05-16
 

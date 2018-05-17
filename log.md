@@ -49,7 +49,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Style contact section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/31))
 
 ### Day 12: Wed, 2018-05-16
-
+* Mpls Jr Devs: Make the menu functional ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/34))
 
 ### Day 13: Thu, 2018-05-17
 

@@ -55,3 +55,4 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Coordinated merging in other people's block ing PRs (no code written)
 
 ### Day 14: Fri, 2018-05-18
+* Mpls Jr Devs: Update menu background color ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/37))

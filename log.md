@@ -58,9 +58,10 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Update menu background color ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/37))
 
 ### Day 15: Sat, 2018-05-19
-* Mpls Jr Devs: Style event section and add primary/secondary section styles ([WIP Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/39))
+* Mpls Jr Devs: Style events section and add primary/secondary section styles ([WIP Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/39))
 
 ### Day 16: Sun, 2018-05-20
+* Mpls Jr Devs: Finish styling and filling in events section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/39))
 
 ### Day 17: Mon, 2018-05-21
 

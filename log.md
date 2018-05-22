@@ -64,6 +64,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Finish styling and filling in events section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/39))
 
 ### Day 17: Mon, 2018-05-21
+* Mpls Jr Devs: Code of Conduct Modal/Collapse proof of concepts ([WIP Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/40))
 
 ### Day 18: Tue, 2018-05-22
 

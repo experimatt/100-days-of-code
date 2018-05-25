@@ -67,12 +67,13 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Code of Conduct Modal/Collapse proof of concepts ([WIP Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/40))
 
 ### Day 18: Tue, 2018-05-22
-* Mpls Jr Devs: Start styling & updating content in CoC ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/41))
+* Mpls Jr Devs: Start styling & updating content of CoC ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/41))
 
 ### Day 19: Wed, 2018-05-23
-* Mpls Jr Devs: Finish styling and updating content in CoC ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/41))
+* Mpls Jr Devs: Finish styling and updating content of CoC ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/41))
 
 ### Day 20: Thu, 2018-05-24
+* Mpls Jr Devs: Move individual event data to json file ([WIP Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/42))
 
 ### Day 21: Fri, 2018-05-25
 

@@ -73,8 +73,24 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Finish styling and updating content of CoC ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/41))
 
 ### Day 20: Thu, 2018-05-24
-* Mpls Jr Devs: Move individual event data to json file ([WIP Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/42))
+* Mpls Jr Devs: Move individual event data to json file ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/42))
 
 ### Day 21: Fri, 2018-05-25
+* Mpls Jr Devs: Add individual Event component and start using it ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/42))
 
 ### Day 22: Sat, 2018-05-26
+* Mpls Jr Devs: Use new Event component for past events ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/42))
+
+### Day 23: Sun, 2018-05-27
+
+### Day 24: Mon, 2018-05-28
+
+### Day 25: Tue, 2018-05-29
+
+### Day 26: Wed, 2018-05-30
+
+### Day 27: Thu, 2018-05-31
+
+### Day 28: Fri, 2018-06-01
+
+### Day 29: Sat, 2018-06-02

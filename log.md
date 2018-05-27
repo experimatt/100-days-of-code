@@ -82,6 +82,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Use new Event component for past events ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/42))
 
 ### Day 23: Sun, 2018-05-27
+* Mpls Jr Devs: Deploy new site to github pages; Start updating readme. ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/44), [WIP Pull Request(https://github.com/mplsjrdevs/mplsjrdevs/pull/45))
 
 ### Day 24: Mon, 2018-05-28
 

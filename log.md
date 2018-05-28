@@ -85,6 +85,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Deploy new site to github pages; Start updating readme. ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/44), [WIP Pull Request(https://github.com/mplsjrdevs/mplsjrdevs/pull/45))
 
 ### Day 24: Mon, 2018-05-28
+* Mpls Jr Devs: Hide register button if > 2 weeks out ([Pull Requst](https://github.com/mplsjrdevs/mplsjrdevs/pull/49))
 
 ### Day 25: Tue, 2018-05-29
 

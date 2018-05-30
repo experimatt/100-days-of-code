@@ -88,6 +88,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Hide register button if > 2 weeks out ([Pull Requst](https://github.com/mplsjrdevs/mplsjrdevs/pull/49))
 
 ### Day 25: Tue, 2018-05-29
+* Mpls Jr Devs: Design tweaks based on Adriana's feedback ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/50))
 
 ### Day 26: Wed, 2018-05-30
 

@@ -91,6 +91,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Design tweaks based on Adriana's feedback ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/50))
 
 ### Day 26: Wed, 2018-05-30
+* Mpls Jr Devs: Add favicon & dynamically show different menus for mobile/desktop ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/50))
 
 ### Day 27: Thu, 2018-05-31
 

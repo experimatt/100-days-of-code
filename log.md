@@ -94,6 +94,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Add favicon & dynamically show different menus for mobile/desktop ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/50))
 
 ### Day 27: Thu, 2018-05-31
+* Mpls Jr Devs: Make mobile menu pass the thumb test ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/50))
 
 ### Day 28: Fri, 2018-06-01
 

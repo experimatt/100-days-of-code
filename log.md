@@ -97,5 +97,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Make mobile menu pass the thumb test ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/50))
 
 ### Day 28: Fri, 2018-06-01
+* Mpls Jr Devs: Add faces to community section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 29: Sat, 2018-06-02
+* Mpls Jr Devs: Add carousel placeholder to ommunity section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))

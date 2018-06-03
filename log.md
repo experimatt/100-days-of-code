@@ -101,3 +101,18 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 
 ### Day 29: Sat, 2018-06-02
 * Mpls Jr Devs: Add carousel placeholder to ommunity section ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
+
+### Day 30: Sun, 2018-06-03
+* Mpls Jr Devs: Add community members data structure, make clicking on faces work ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
+
+### Day 31: Mon, 2018-06-04
+
+### Day 32: Tue, 2018-06-05
+
+### Day 33: Wed, 2018-06-06
+
+### Day 34: Thu, 2018-06-07
+
+### Day 35: Fri, 2018-06-08
+
+### Day 36: Sat, 2018-06-09

@@ -106,6 +106,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Add community members data structure, make clicking on faces work ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 31: Mon, 2018-06-04
+* Mpls Jr Devs: Add text overlay on image hover ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 32: Tue, 2018-06-05
 

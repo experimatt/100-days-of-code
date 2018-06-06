@@ -109,6 +109,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Add text overlay on image hover ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 32: Tue, 2018-06-05
+* Mpls Jr Devs: Add font awesome and start using it ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 33: Wed, 2018-06-06
 

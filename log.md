@@ -112,6 +112,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Add font awesome and start using it ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 33: Wed, 2018-06-06
+* Mpls Jr Devs: Make the carousel work! ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 34: Thu, 2018-06-07
 

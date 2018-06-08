@@ -115,7 +115,9 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Make the carousel work! ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 34: Thu, 2018-06-07
+* Mpls Jr Devs: Fix carousel height, styling, and randomize order by default ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 35: Fri, 2018-06-08
+* Mpls Jr Devs: Tidy up & merge community section; review Chelsey's PR ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 36: Sat, 2018-06-09

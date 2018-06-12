@@ -121,3 +121,18 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Tidy up & merge community section; review Chelsey's PR ([Pull Request](https://github.com/mplsjrdevs/mplsjrdevs/pull/51))
 
 ### Day 36: Sat, 2018-06-09
+* Setup Microsoft Surface for development use & got Mpls Jr Devs running locally
+
+### Day 37: Sun, 2018-06-10
+* TC Pizza Bracket: Firebase & npm bracket package research
+
+### Day 38: Mon, 2018-06-11
+* TC Pizza Bracket: Setup new repo w/ create-react-app and firebase ([Repo](https://gitlab.com/experimatt/tc-pizza-bracket))
+
+### Day 39: Tue, 2018-06-12
+
+### Day 40: Wed, 2018-06-13
+
+### Day 41: Thu, 2018-06-14
+
+### Day 42: Fri, 2018-06-15

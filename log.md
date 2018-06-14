@@ -130,8 +130,10 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * TC Pizza Bracket: Setup new repo w/ create-react-app and firebase ([Repo](https://gitlab.com/experimatt/tc-pizza-bracket))
 
 ### Day 39: Tue, 2018-06-12
+* Mpls Jr Devs: Update event schedule & fix day-of event display; Organize & facilitate Mpls Jr Devs #13
 
 ### Day 40: Wed, 2018-06-13
+* TC Pizza Bracket: Setup firebase hosting & add placeholder content to site
 
 ### Day 41: Thu, 2018-06-14
 

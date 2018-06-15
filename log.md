@@ -136,5 +136,6 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * TC Pizza Bracket: Setup firebase hosting & add placeholder content to site
 
 ### Day 41: Thu, 2018-06-14
+* Mpls Jr Devs: Help Chelsey merge her contact PR in ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/52))
 
 ### Day 42: Fri, 2018-06-15

@@ -139,3 +139,21 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Help Chelsey merge her contact PR in ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/52))
 
 ### Day 42: Fri, 2018-06-15
+* Mpls Jr Devs: Merge Chelsey's bio; Update icons in contact section ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/55))
+
+### Day 43: Sat, 2018-06-16
+* Mpls Jr Devs: Contact section styling and wrapping ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/55))
+
+### Day 44: Sun, 2018-06-17
+
+### Day 45: Mon, 2018-06-18
+
+### Day 46: Tue, 2018-06-19
+
+### Day 47: Wed, 2018-06-20
+
+### Day 48: Thu, 2018-06-21
+
+### Day 49: Fri, 2018-06-22
+
+### Day 50: Sat, 2018-06-23

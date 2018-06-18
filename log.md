@@ -145,6 +145,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Contact section styling and wrapping ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/55))
 
 ### Day 44: Sun, 2018-06-17
+* TC Pizza Bracket: Add bracket & start building data structure ([WIP MR](https://gitlab.com/experimatt/tc-pizza-bracket/merge_requests/1)
 
 ### Day 45: Mon, 2018-06-18
 

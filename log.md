@@ -146,8 +146,10 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 
 ### Day 44: Sun, 2018-06-17
 * TC Pizza Bracket: Add bracket & start building data structure ([WIP MR](https://gitlab.com/experimatt/tc-pizza-bracket/merge_requests/1)
+    - [Minnesota Monthly pizza bracket](http://www.minnesotamonthly.com/Food-Drink/Pizza-Madness/) starts on 6/18; Halting working on TC Pizza Bracket
 
 ### Day 45: Mon, 2018-06-18
+* OMG Transit: Update stops, packages, and rename actions for clarity ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 46: Tue, 2018-06-19
 

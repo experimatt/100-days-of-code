@@ -152,6 +152,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Update stops, packages, and rename actions for clarity ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 46: Tue, 2018-06-19
+* OMG Transit: Rename reducers for clarity, add bike station actions ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 47: Wed, 2018-06-20
 

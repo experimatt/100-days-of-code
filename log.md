@@ -155,6 +155,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Rename reducers for clarity, add bike station actions ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 47: Wed, 2018-06-20
+* OMG Transit: Load niceride station & availability ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 48: Thu, 2018-06-21
 

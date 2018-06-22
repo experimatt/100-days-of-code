@@ -158,6 +158,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Load niceride station & availability ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 48: Thu, 2018-06-21
+* OMG Transit: Include nicerides when getting nearby stops ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 49: Fri, 2018-06-22
 

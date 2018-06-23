@@ -164,3 +164,18 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Add nicerides to map ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 50: Sat, 2018-06-23
+* OMG Transit: Add stop preview for nicerides ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
+
+### Day 51: Sun, 2018-06-24
+
+### Day 52: Mon, 2018-06-25
+
+### Day 53: Tue, 2018-06-26
+
+### Day 54: Wed, 2018-06-27
+
+### Day 55: Thu, 2018-06-28
+
+### Day 56: Fri, 2018-06-29
+
+### Day 57: Sat, 2018-06-30

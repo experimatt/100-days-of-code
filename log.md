@@ -167,6 +167,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Add stop preview for nicerides ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 51: Sun, 2018-06-24
+* OMG Transit: Get favorites working with nicerides ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 52: Mon, 2018-06-25
 

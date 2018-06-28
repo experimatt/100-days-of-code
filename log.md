@@ -176,6 +176,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Rename and restructure things for consistency ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 54: Wed, 2018-06-27
+* OMG Transit: Reorganize action helpers & add status bar message ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 55: Thu, 2018-06-28
 

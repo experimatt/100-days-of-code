@@ -179,6 +179,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Reorganize action helpers & add status bar message ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6))
 
 ### Day 55: Thu, 2018-06-28
+* OMG Transit: Deployed nicerides to live site; Fix favorite conversion logic ([MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6), [Commit](https://gitlab.com/omgtransit/omgtransit/commit/2596a8a16dad0acfebc5306e4aa42083bd97c0f1))
 
 ### Day 56: Fri, 2018-06-29
 

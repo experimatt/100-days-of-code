@@ -182,7 +182,22 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: Deployed nicerides to live site; Fix favorite conversion logic ([MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/6), [Commit](https://gitlab.com/omgtransit/omgtransit/commit/2596a8a16dad0acfebc5306e4aa42083bd97c0f1))
 
 ### Day 56: Fri, 2018-06-29
-* OMG Transit: OMG Transit: Backwards compatibility for oldFavorites ([Commit](https://gitlab.com/omgtransit/omgtransit/commit/1f9cfdaafc5e47121bc6c402018131fad6f96533))
+* OMG Transit: Backwards compatibility for oldFavorites ([Commit](https://gitlab.com/omgtransit/omgtransit/commit/1f9cfdaafc5e47121bc6c402018131fad6f96533))
 
 ### Day 57: Sat, 2018-06-30
-* OMG Transit: OMG Transit: Experiment with adding transitStops to state ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/7))
+* OMG Transit: Experiment with adding transitStops to state ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/7))
+
+### Day 58: Sun, 2018-07-01
+* OMG Transit: Add Initializer and Legend specs; Wrestled with jest mocks ([Commit](https://gitlab.com/omgtransit/omgtransit/commit/b34f2a7a4d20abbaada8a76d9309a0d95be277e8))
+
+### Day 59: Mon, 2018-07-02
+
+### Day 60: Tue, 2018-07-03
+
+### Day 61: Wed, 2018-07-04
+
+### Day 62: Thu, 2018-07-05
+
+### Day 63: Fri, 2018-07-06
+
+### Day 64: Sat, 2018-07-07

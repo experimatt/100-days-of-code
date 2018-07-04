@@ -193,8 +193,8 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 ### Day 59: Mon, 2018-07-02
 * OMG Transit: Update HTTP cache headers & Service Worker research ([Commit](https://gitlab.com/omgtransit/omgtransit/commit/349d15d85ac2f4db08195248616b52c3198c9894))
 
-
 ### Day 60: Tue, 2018-07-03
+* OMG Transit: More service worker research ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/8))
 
 ### Day 61: Wed, 2018-07-04
 

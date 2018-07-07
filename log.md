@@ -197,9 +197,13 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * OMG Transit: More service worker research ([WIP MR](https://gitlab.com/omgtransit/omgtransit/merge_requests/8))
 
 ### Day 61: Wed, 2018-07-04
+* Day off
 
 ### Day 62: Thu, 2018-07-05
+* Mpls Jr Devs: Review Brandon's PR & add Adriana's bio ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/57))
 
 ### Day 63: Fri, 2018-07-06
+* Started React Native tutorial
 
 ### Day 64: Sat, 2018-07-07
+* Mpls Jr Devs: Fix link spacing in community bios ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/63))

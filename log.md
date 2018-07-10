@@ -207,3 +207,17 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 
 ### Day 64: Sat, 2018-07-07
 * Mpls Jr Devs: Fix link spacing in community bios ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/63))
+
+### Day 65: Sun, 2018-07-08
+* OMG Transit: Automate SSL cert renewal process ([Commit](https://gitlab.com/omgtransit/omgtransit/commit/b1266c8f4b8dbe56add3caf3aa73c6b4b416a90d))
+
+### Day 66: Mon, 2018-07-09
+* Mpls Jr Devs: Update event schedule & Adriana's bio ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/64))
+
+### Day 67: Tue, 2018-07-10
+
+### Day 68: Wed, 2018-07-11
+
+### Day 69: Thu, 2018-07-12
+
+### Day 70: Fri, 2018-07-13

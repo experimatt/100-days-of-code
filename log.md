@@ -215,6 +215,7 @@ See [100DaysOfCode Tracking Google Sheet](https://docs.google.com/spreadsheets/d
 * Mpls Jr Devs: Update event schedule & Adriana's bio ([PR](https://github.com/mplsjrdevs/mplsjrdevs/pull/64))
 
 ### Day 67: Tue, 2018-07-10
+* Mpls Jr Devs: Reviewing, merging & deploying Kam & Sarah's bios
 
 ### Day 68: Wed, 2018-07-11
 
